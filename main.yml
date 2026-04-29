@@ -8,7 +8,7 @@ on:
         required: true
         default: 'noobsensei'
       agent_description:
-        description: 'hiroshi01'
+        description: 'noobsensei'
         required: true
         default: 'noobsensei AI Agent'
 
